@@ -1,6 +1,7 @@
 #!/bin/bash
 
 sudo apt update
+sudo apt install gnome-terminal -y
 sudo apt install -y whois
 sudo apt install theharvester -y
 sudo apt install subfinder -y
